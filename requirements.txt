@@ -1,7 +1,0 @@
-streamlit
-numpy
-matplotlib
-scipy
-plotly
-trimesh
-streamlit-drawable-canvas
